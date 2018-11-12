@@ -1,0 +1,6 @@
+*.root
+test
+*.pyc
+*.o
+davio
+*.pkl
